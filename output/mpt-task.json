@@ -1,0 +1,21 @@
+{
+  "video_subject": "The Visionary — Who Invented the Chicken Nugget?",
+  "video_script": "Pig: Dinner in minutes. Pure chicken genius.\nWolf: Chicken genius. Yours?\nPig: I heat 'em. I plate 'em. I'm a visionary.\nTito: Did you invent these?\nPig: I improved dinner.\nWolf: Read the smallest words.\nPig: Chicken. Water. Seasoning. Breading. Who cares?\nWolf: Who made chicken convenient?\nTito: Not him?\nWolf (V.O.): Cornell University. Robert C. Baker studies poultry.\nWolf (V.O.): Nineteen sixty-three. Baker and Joseph Marshall propose a chicken stick.\nWolf (V.O.): Ground chicken. A coating that stays put.\nWolf (V.O.): Nineteen eighty-three. McDonald's takes McNuggets nationwide.\nWolf (V.O.): Convenience has a long history.\nPig: I picked the sauce.\nWolf: A visionary.\nTito: Shh, not another word. Found the professor.\nPig: I preheated the oven.\nWolf: A visionary.",
+  "video_terms": [
+    "mountain campsite campfire dusk",
+    "pig wolf chick animated characters camping",
+    "cornell university food science laboratory 1960s",
+    "scientist ground chicken laboratory workbench",
+    "chicken nuggets breading coating",
+    "1983 fast food kitchen fryer",
+    "golden chicken nuggets close up"
+  ],
+  "video_aspect": "9:16",
+  "video_concat_mode": "sequential",
+  "match_materials_to_script": true,
+  "video_clip_duration": 8,
+  "subtitle_enabled": true,
+  "bgm_type": "random",
+  "bgm_volume": 0.1,
+  "note": "Rendered production (AI visuals + 3-voice dialogue) lives in output/golden-peep-visionary.mp4. This file lets MoneyPrinterTurbo's stock-footage pipeline produce a narrated variant of the same script."
+}
